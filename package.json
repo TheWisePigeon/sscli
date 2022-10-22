@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/TheWisePigeon/sscli.git"
   },
+  "publishConfig": {
+    "@thepisewigeon:registry": "https://npm.pkg.github.com"
+  },
   "author": "TheWisePigeon",
   "license": "ISC",
   "bugs": {
