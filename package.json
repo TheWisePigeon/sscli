@@ -1,5 +1,5 @@
 {
-  "name": "sscli",
+  "name": "@TheWisePigeon/sscli",
   "version": "1.0.0",
   "description": "SuperSecret CLI",
   "main": "index.js",
