@@ -1,18 +1,16 @@
 {
-  "name": "@TheWisePigeon/sscli",
-  "version": "1.0.0",
+  "name": "@thepisewigeon/sscli",
+  "version": "1.0.1",
   "description": "SuperSecret CLI",
   "main": "index.js",
   "bin": "./index.js",
+  "type": "module",
   "scripts": {
     "test": "exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheWisePigeon/sscli.git"
-  },
-  "publishConfig": {
-    "@thepisewigeon:registry": "https://npm.pkg.github.com"
   },
   "author": "TheWisePigeon",
   "license": "ISC",
